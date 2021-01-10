@@ -5,7 +5,7 @@ email: my.email@gmail.com
 description: A wonderful site
 twitter_username: no
 github_username: no
-logo: "https://raw.githubusercontent.com/Sciencesing/newblog/main/Space_Image.jpg"
+logo: "/Space_Image.jpg"
 
 #Build settings
 markdown: kramdown
