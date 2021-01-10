@@ -6,7 +6,7 @@ description: A wonderful site
 twitter_username: no
 github_username: no
 repository: "Sciencesing/newblog"
-logo: "/assets/img/Space_Image.jpg"
+logo: "./assets/img/Space_Image.jpg"
 
 #Build settings
 markdown: kramdown
