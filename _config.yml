@@ -6,6 +6,7 @@ description: A wonderful site
 twitter_username: no
 github_username: no
 repository: "Sciencesing/newblog"
+logo: "./assests/img/Space_Image_Small"
 
 
 #Build settings
