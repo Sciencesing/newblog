@@ -1,0 +1,11 @@
+#basic options
+title: This is a TEST
+author: Me
+email: my.email@gmail.com
+description: A wonderful site
+twitter_username: no
+github_username: no
+
+#Build settings
+markdown: kramdown
+theme: minima
