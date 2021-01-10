@@ -10,4 +10,4 @@ logo: "/assets/img/Space_Image.jpg"
 
 #Build settings
 markdown: kramdown
-theme: jekyll-theme-so-simple
+theme: minima
